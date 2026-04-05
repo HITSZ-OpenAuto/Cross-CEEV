@@ -12,7 +12,7 @@ name = "水力学"
 name = "刘彤宙"
 
 [[courses.teachers.reviews]]
-content = "刘彤宙老师授课挺好的，但是课本身难度较高,点名和小测会提前通知，小测开卷"
+content = "刘彤宙老师授课挺好的，但是课本身难度较高，点名和小测会提前通知，小测开卷"
 author = { name = "Y-Sensi", link = "https://github.com/Y-Sensi", date = "2025-01" }
 
 [[courses]]
